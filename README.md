@@ -3,7 +3,7 @@
 This is a  Tic Tac Toe game developed using **Python** and **Streamlit**.This project demonstrates how an intelligent agent can make human-like decisions using recursive algorithms to provide a challenging gameplay experience.
 ---
 
-## ✨ Features
+##  Features
 * **Intelligent AI Opponent:** Uses the **Minimax Algorithm** to analyze the board, predict future moves, and select the optimal move to win or force a draw .
 *  **Three Difficulty Levels:** Includes **Easy**, **Medium**, and **Hard** modes to cater to different player skill levels.
 * **Interactive Web UI:** A clean, button-based interface that allows for seamless gameplay in a browser.
@@ -53,15 +53,13 @@ Through this project, I gained practical experience in :
 * Understanding the importance of **recursion** and logical debugging
 ---
 
-### find the game using : 
-'''bash 
-http://localhost:8502
-'''
 
-### 👤 Author
+
+
+###  Author
 * **Nainika Kumari** 
 * **Registration Number:** 25BAI11053 
 * **Academic Year:** First Year (2025-2026) 
 
-### 📝 License
+###  License
 [This project was created as part of an academic AI/ML Project Report .
