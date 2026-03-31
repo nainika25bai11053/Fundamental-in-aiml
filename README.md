@@ -42,7 +42,10 @@ This project applies core Artificial Intelligence principles:
     ```bash
     python3 -m streamlit run TICTACTOE.py
     ```
-
+4.  ** app link : **
+    '''bash
+    https://fundamental-in-aiml-zcda9ek57qbqu4ajgrgsoi.streamlit.app
+    '''
 
 ---
 
