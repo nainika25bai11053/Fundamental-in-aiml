@@ -1,6 +1,6 @@
 #  Tic Tac Toe AI 
 
-This is a  Tic Tac Toe game developed using **Python** and **Streamlit**.This project demonstrates how an intelligent agent can make human-like decisions using recursive algorithms to provide a challenging gameplay experience.
+This project is a Tic Tac Toe game developed in Python where a human player competes against an AI opponent. The AI uses the Minimax algorithm to analyze possible moves and choose the best one, making the game more challenging. It features a simple Streamlit-based interface, multiple difficulty levels, and additional options like hints and score tracking, helping users understand basic AI concepts and decision-making.
 ---
 
 ##  Features
