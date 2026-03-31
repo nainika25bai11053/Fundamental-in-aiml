@@ -8,7 +8,7 @@ This is a  Tic Tac Toe game developed using **Python** and **Streamlit**.This pr
 *  **Three Difficulty Levels:** Includes **Easy**, **Medium**, and **Hard** modes to cater to different player skill levels.
 * **Interactive Web UI:** A clean, button-based interface that allows for seamless gameplay in a browser.
 * **Explainable AI:** Provides real-time feedback on the AI's logic, indicating if it is aiming for a win, a block, or a forced draw .
-* **Game Utilities:** Built-in **Hint System**, **Undo** functionality, and a **Live Scoreboard** to track wins and losses[cite .
+* **Game Utilities:** Built-in **Hint System**, **Undo** functionality, and a **Live Scoreboard** to track wins and losses .
 
 ---
 
@@ -30,8 +30,7 @@ This project applies core Artificial Intelligence principles:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/Tic-Tac-Toe-AI.git](https://github.com/your-username/Tic-Tac-Toe-AI.git)
-    cd Tic-Tac-Toe-AI
+    https://github.com/nainika25bai11053/Fundamental-in-aiml
     ```
 
 2.  **Install Streamlit:**
