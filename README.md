@@ -43,6 +43,7 @@ This project applies core Artificial Intelligence principles:
     python3 -m streamlit run TICTACTOE.py
     ```
 
+
 ---
 
 ## 📈 Learning Outcomes
@@ -51,6 +52,11 @@ Through this project, I gained practical experience in :
 * Managing **game states** and reactivity within the Streamlit framework.
 * Understanding the importance of **recursion** and logical debugging
 ---
+
+### find the game using : 
+'''bash 
+http://localhost:8502
+'''
 
 ### 👤 Author
 * **Nainika Kumari** 
